@@ -1,15 +1,10 @@
 * {
-    margin: 0;
-    padding: 0;
-}   
+  margin: 0;
+  padding: 0;
+}
 
 #conteiner1 {
-    width: 100px;
-    height: 100px;
+  max-height: 100vh;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
 }
-
-.conteiner1 {
-    width: 100px;
-    height: 100px;
-}
-
